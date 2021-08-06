@@ -10,3 +10,13 @@ h1.contact-page{
   font-size: 60px;
   text-align: center;
 }
+
+img.contact-page{
+  align:
+  height: 200px;
+  width: 200px;
+  margin:50px;
+  padding:50px;
+  border:40px;
+  
+}
