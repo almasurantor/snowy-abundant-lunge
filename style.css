@@ -1,4 +1,12 @@
-.nav-links{
-  margin:0px;
-  background:red;
+.info{
+  margin: 30px;
+  border: 20px;
+  padding: 40px;
+  font-size: 40px;
+  text-align: center;
+}
+
+h1.contact-page{
+  font-size: 60px;
+  text-align: center;
 }
