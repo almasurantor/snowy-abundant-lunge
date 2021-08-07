@@ -1,6 +1,6 @@
 /* index  */
 body{
-  background-color: steelblue;
+  background-color: black;
 }
 header {
   background: DodgerBlue;
@@ -64,9 +64,9 @@ h1.contact-page {
 img.contact-page {
   height: 250px;
   width: 250px;
-  margin: 60px;
-  padding: 120px;
-  border: 20px;
+  margin: 10px;
+  padding: 10px;
+  border: 10px;
 }
 /* message */
 label.message{
