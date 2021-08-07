@@ -54,6 +54,12 @@ nav a:hover{
   padding: 40px;
   font-size: 40px;
   text-align: center;
+  text-decoration:none;
+  color:darkblue;
+}
+
+.info:hover{
+  color:white;
 }
 
 h1.contact-page {
@@ -64,12 +70,14 @@ h1.contact-page {
 img.contact-page {
   height: 10%;
   width: 10%;
-  margin: 50px;
-  padding: 150px;
-  padding-right:20px;
+padding-right:200px;
+padding-left:200px;
+padding-top:40px;
+padding-bottom:40px;
   display:center;
 
 }
+
 /* message */
 label.message{
   padding:50px;
