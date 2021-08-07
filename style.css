@@ -1,5 +1,22 @@
 /* index  */
 
+nav h1{
+  float: right;
+}
+nav{
+  float:left;
+}
+
+nav ul{
+  padding: 0px;
+  list-
+}
+ 
+
+nav li{
+  display: inline-block;
+}
+  
 
 
 
