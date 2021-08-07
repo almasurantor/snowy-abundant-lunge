@@ -1,51 +1,38 @@
 /* index  */
-
-header{
-  header::after { 
-    content: ''; 
-    display: table; 
-    clear: both;
+header {
+  background: blue;
 }
-nav h1{
+
+header::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+h1.nav {
+  text-align: left;
+  padding: 10px;
+}
+nav {
   float: right;
 }
-nav{
-  float:left;
-}
 
-nav ul{
-  padding: 0px;
-  margin: 0px;
+nav ul {
+  padding: 0;
+  margin: 0;
   list-style: None;
 }
- 
 
-nav li{
+nav li {
   display: inline-block;
 }
-  
-
-
-
-
 
 /* project */
 
-
-
 /* about me */
-
-
-
-
-
-
-
-
 
 /* contact */
 
-.info{
+.info {
   margin: 30px;
   border: 20px;
   padding: 40px;
@@ -53,15 +40,15 @@ nav li{
   text-align: center;
 }
 
-h1.contact-page{
+h1.contact-page {
   font-size: 60px;
   text-align: center;
 }
 
-img.contact-page{
+img.contact-page {
   height: 250px;
   width: 250px;
-  margin:60px;
-  padding:120px;
-  border:20px;
+  margin: 60px;
+  padding: 120px;
+  border: 20px;
 }
