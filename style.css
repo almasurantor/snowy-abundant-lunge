@@ -1,6 +1,6 @@
 /* index  */
 header {
-  background: blue;
+  background: DodgerBlue;
 }
 
 header::after {
@@ -11,8 +11,9 @@ header::after {
 
 
 img.nav{
-  height:60px;
-
+  padding-top:20px;
+  padding-left:15px;
+  height:65px;
   float: left;
 }
 
@@ -22,6 +23,8 @@ nav ul {
 }
 
 nav li {
+  padding: 10px;
+  margin:10px;
   font-size: 30px;
   display: inline-block;
 }
