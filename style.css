@@ -1,4 +1,7 @@
 /* index  */
+body{
+  background-color: steelblue;
+}
 header {
   background: DodgerBlue;
 }
@@ -65,7 +68,9 @@ img.contact-page {
   padding: 120px;
   border: 20px;
 }
-
-.message{
-  align:center;
+/* message */
+label.message{
+  padding:20px;
+  margin:30px;
+  border:20px;
 }
