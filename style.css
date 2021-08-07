@@ -8,21 +8,20 @@ header::after {
   display: table;
   clear: both;
 }
-h1.nav {
-  text-align: left;
-  padding: 10px;
-}
-nav {
-  float: right;
+
+
+img.nav{
+  height:80px;
+  float: left;
 }
 
 nav ul {
-  padding: 0;
-  margin: 0;
+  float:right;
   list-style: None;
 }
 
 nav li {
+  font-size: 30px;
   display: inline-block;
 }
 
