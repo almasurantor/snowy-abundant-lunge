@@ -43,12 +43,8 @@ nav a:hover {
 
 /* project */
 
-/* about me */
-hr.aboutme{
-  height:40px;
-  display:
-}
 
+/* about me */
 .box1{
   position:absolute;
   display:flex;
@@ -60,14 +56,14 @@ hr.aboutme{
   padding-left:100px;
 }
 .box1 h2{
-  font-size: 50px;
+  font-size: 65px;
   text-align:center;
   padding-bottom:0px;
 }
 .box1 p{
-  line-height:40px;
+  line-height:45px;
   text-align:center;
-  font-size: 40px;
+  font-size: 30px;
 padding-left: 70px;
   padding-right:70px;
 }
@@ -76,7 +72,23 @@ padding-left: 70px;
   display:flex;
   padding-top:750px;
 }
-
+.box2 img{
+  height:600px;
+  width:750px;
+  padding-right:100px;
+}
+.box2 h2{
+  font-size: 65px;
+  text-align:center;
+  padding-bottom:0px;
+}
+.box2 p{
+  line-height:45px;
+  text-align:center;
+  font-size: 30px;
+padding-left: 70px;
+  padding-right:70px;
+}
 /* contact */
 a.info{
     border: 2px;
