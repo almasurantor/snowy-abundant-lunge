@@ -47,6 +47,10 @@ nav a:hover {
 h2 {
   text-align: center;
 }
+p.p1{
+  display:inline;
+  vertical-alignment: middle;
+}
 
 /* contact */
 a.info{
