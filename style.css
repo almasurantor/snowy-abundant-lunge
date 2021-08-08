@@ -45,7 +45,7 @@ nav a:hover {
 div.items {
   margin: 15px;
   padding: 25px;
-  border: 1px solid #ccc;
+  border: 5px solid black;
   float: left;
   width: 180px;
 }
