@@ -44,11 +44,9 @@ nav a:hover {
 /* project */
 
 /* about me */
-h2 {
-  text-align: center;
-}
-p.p1{
-  display:inline;
+
+div.p1{
+  display:flex;
   vertical-alignment: middle;
 }
 
