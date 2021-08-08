@@ -50,14 +50,14 @@ h2{
 }
 
 /* contact */
-h1 contact-page{
-  font-size: 50px;
-}
+
 .info {
   margin: 30px;
   border: 20px;
-  padding: 40px;
-  font-size: 40px;
+  padding: 30px;
+  padding-right:125px;
+  padding-left:125px;
+  font-size: 50px;
   text-align: center;
   text-decoration:none;
   color:darkblue;
@@ -68,7 +68,7 @@ h1 contact-page{
 }
 
 h1.contact-page {
-  font-size: 60px;
+  font-size: 90px;
   text-align: center;
 }
 
