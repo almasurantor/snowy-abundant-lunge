@@ -43,7 +43,8 @@ nav a:hover {
 
 /* project */
 div.items {
-  margin: 5px;
+  margin: 15px;
+  padding: 25px;
   border: 1px solid #ccc;
   float: left;
   width: 180px;
@@ -53,7 +54,8 @@ div.items:hover {
   border: 1px solid #777;
 }
 div.item-name {
-  font-size: px;
+  font-size: 40px;
+  text-align:center;
 }
 div.items img {
   width: 100%;
