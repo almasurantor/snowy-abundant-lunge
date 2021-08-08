@@ -40,31 +40,43 @@
     <title>Gaming X Hub</title>
   </head>
   <body>
-<div class="message">
-  <form action="action_page.php">
+    <div class="message">
+      <form action="action_page.php">
+        <label class="message" for="fname">First Name</label>
+        <input
+          type="text"
+          id="fname"
+          name="firstname"
+          placeholder="Your name.."
+        />
+        <br />
 
-    <label class="message" for="fname">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name..">
-    <br>
+        <label class="message" for="lname">Last Name</label>
+        <input
+          type="text"
+          id="lname"
+          name="lastname"
+          placeholder="Your last name.."
+        />
+        <br />
+        <label class="message" for="Message Type">Message Type:</label>
+        <select id="message type" name="message type">
+          <option value="Concern">Concern</option>
+          <option value="Question">Question</option>
+          <option value="Support">Support</option>
+          <option value="Other">Other</option>
+        </select>
+        <br />
+        <label class="message" for="subject">Subject</label>
+        <textarea
+          id="subject"
+          name="subject"
+          placeholder="Write something.."
+          style="height:200px"
+        ></textarea>
 
-    <label class= "message" for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-    <br>
-    <label class= "message" for="Message Type">Message Type:</label>
-    <select id="message type" name="message type">
-      <option value="Concern">Concern</option>
-      <option value="Question">Question</option>
-      <option value="Support">Support</option>
-      <option value="Other">Other</option>
-    </select>
-<br>
-    <label class= "message" for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-
-    <input type="submit" value="Submit">
-    
-
-  </form>
-</div>
+        <input type="submit" value="Submit" />
+      </form>
+    </div>
   </body>
 </html>
