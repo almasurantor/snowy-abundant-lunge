@@ -44,10 +44,20 @@ nav a:hover {
 /* project */
 
 /* about me */
-
+hr.aboutme{
+  height:40px;
+  display:
+}
 .box1{
   position:absolute;
   display:flex;
+  border:10px;
+  border: solid;
+}
+.box2{
+  position:absolute;
+  display:flex;
+  padding-top:1000px;
 }
 
 /* contact */
