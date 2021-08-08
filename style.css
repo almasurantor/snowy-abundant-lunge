@@ -45,9 +45,9 @@ nav a:hover {
 
 /* about me */
 
-div.p1{
+.box1{
+  position:absolute;
   display:flex;
-  vertical-alignment: middle;
 }
 
 /* contact */
