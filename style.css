@@ -41,6 +41,25 @@ nav a:hover {
   color: white;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* project */
 div.items {
   margin: 15px;
@@ -50,22 +69,33 @@ div.items {
   width: 180px;
 }
 
-div.items:hover {
+div. items:hover {
   border: 1px solid #777;
 }
-div.item-name {
+div. -name {
   font-size: 40px;
   text-align:center;
 }
-div.items img {
+div. items img {
   width: 100%;
   height: auto;
 }
 
-div.desc {
+div. desc {
   padding: 15px;
   text-align: center;
 }
+
+
+
+
+
+
+
+
+
+
+
 
 /* about me */
 .box1 {
@@ -112,6 +142,40 @@ div.desc {
   padding-left: 70px;
   padding-right: 70px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* contact */
 a.info {
   border: 2px;
@@ -148,6 +212,20 @@ img.contact-page {
   padding-bottom: 40px;
   display: center;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* message */
 label.message {
