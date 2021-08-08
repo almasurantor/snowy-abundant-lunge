@@ -66,8 +66,12 @@ h2{
 .info:hover{
   color:white;
 }
-
+body.contact-page{
+  font-family: 'Concert One', cursive;
+font-family: 'Patrick Hand', cursive
+}
 h1.contact-page {
+
   font-size: 70px;
   text-align: center;
 }
