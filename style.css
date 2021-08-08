@@ -48,16 +48,21 @@ hr.aboutme{
   height:40px;
   display:
 }
+
 .box1{
   position:absolute;
   display:flex;
-  border:10px;
-  border: solid;
+  padding-top:30px;
+}
+.box1 img{
+  height:650px;
+  width:650px;
+  padding-left:100px;
 }
 .box2{
   position:absolute;
   display:flex;
-  padding-top:1000px;
+  padding-top:750px;
 }
 
 /* contact */
