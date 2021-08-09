@@ -420,12 +420,13 @@ footer{
 }
 .footer-distributed .footer-icons{
 	margin-top: 25px;
+  width:5px;
+  height:5px;
+  display:inline-block;
 }
 
 .footer-distributed .footer-icons a{
 	display: inline-block;
-	width: 35px;
-	height: 35px;
 	cursor: pointer;
 	background-color:  #33383b;
 	border-radius: 2px;
