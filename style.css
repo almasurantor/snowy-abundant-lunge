@@ -2,10 +2,15 @@
 body {
   background-color: DarkTurquoise;
   position:relative;
-  padding-bottom:100%;
+}
+body.index{
+  padding-bottom:70%;
 }
 body.aboutme{
   padding-bottom:90%;
+}
+body.project{
+  padding-bottom:40%;
 }
 header {
   background: DodgerBlue;
@@ -337,6 +342,7 @@ label.message {
 footer{
   position: absolute;
   bottom:0px;
+    padding-top: 50px;
 }
 .footer-distributed{
 	background: black;
@@ -344,6 +350,7 @@ footer{
 	width: 100%;
 	text-align: left;
 	font: bold 16px sans-serif;
+
 	padding: 55px 50px;
 }
 
