@@ -328,13 +328,18 @@ label.message {
   margin: 60px;
   border: 20px;
 }
+
+
+
+
+
 /*footer*/
 footer{
   position: absolute;
   bottom:0px;
 }
 .footer-distributed{
-	background: #666;
+	background: black;
 	box-sizing: border-box;
 	width: 100%;
 	text-align: left;
@@ -354,12 +359,13 @@ footer{
 .footer-distributed .footer-left{
 	width: 35%;
 }
+.footer-distributed .footer-company-name{}
 
 
 /* Footer links */
 
 .footer-distributed .footer-links{
-	color:  #ffffff;
+	color:  white;
 	margin: 20px 0 12px;
 	padding: 0;
 }
@@ -400,7 +406,9 @@ footer{
 }
 
 
-
+.footer-distributed .footer-company-about{
+  color:white;
+}
 .footer-distributed .footer-icons{
 	margin-top: 25px;
 }
