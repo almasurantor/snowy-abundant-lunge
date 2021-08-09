@@ -351,7 +351,7 @@ footer{
 	text-align: left;
 	font: bold 16px sans-serif;
 
-	padding: 55px 50px;
+	padding: 15px 30px;
 }
 
 .footer-distributed .footer-left,
@@ -364,12 +364,14 @@ footer{
 /* Footer left */
 
 .footer-distributed .footer-left{
-	width: 35%;
+	width: 42%;
+  padding-left:50px;
 }
 .footer-distributed .footer-company-name{
   color: white;
 }
 
+}
 
 /* Footer links */
 
@@ -383,7 +385,7 @@ footer{
 /* Footer Center */
 
 .footer-distributed .footer-center{
-	width: 35%;
+	width: 33%;
 }
 
 
