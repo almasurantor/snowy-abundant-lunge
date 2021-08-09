@@ -94,7 +94,10 @@ nav a:hover {
 }
 
 
-
+.title-pc{
+  font-size:60px;
+  color:blue;
+}
 
 
 
@@ -121,6 +124,7 @@ div.pc {
   border: 5px solid black;
   float: left;
   width: 180px;
+  margin:20px;
 }
 
 div.pc:hover {
