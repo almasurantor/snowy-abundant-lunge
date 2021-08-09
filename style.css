@@ -1,6 +1,11 @@
 /* index  */
 body {
   background-color: DarkTurquoise;
+  position:relative;
+  padding-bottom:100%;
+}
+body.aboutme{
+  padding-bottom:90%;
 }
 header {
   background: DodgerBlue;
@@ -325,7 +330,8 @@ label.message {
 }
 /*footer*/
 footer{
-  position: sticky;
+  position: absolute;
+  bottom:0px;
 }
 .footer-distributed{
 	background: #666;
@@ -334,7 +340,6 @@ footer{
 	text-align: left;
 	font: bold 16px sans-serif;
 	padding: 55px 50px;
-  bottom:0px;
 }
 
 .footer-distributed .footer-left,
