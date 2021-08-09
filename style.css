@@ -418,24 +418,4 @@ footer{
 .footer-distributed .footer-company-about{
   color:white;
 }
-.footer-distributed .footer-icons{
-	margin-top: 25px;
-  width:5px;
-  height:5px;
-  display:inline-block;
-}
 
-.footer-distributed .footer-icons a{
-	display: inline-block;
-	cursor: pointer;
-	background-color:  #33383b;
-	border-radius: 2px;
-
-	font-size: 20px;
-	color: #ffffff;
-	text-align: center;
-	line-height: 35px;
-
-	margin-right: 3px;
-	margin-bottom: 5px;
-}
