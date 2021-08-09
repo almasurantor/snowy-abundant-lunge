@@ -42,158 +42,121 @@ nav a:hover {
 }
 /*footer*/
 
-
-.footer-distributed{
-	background: #666;
-	box-sizing: border-box;
-	width: 100%;
-	text-align: left;
-	font: bold 16px sans-serif;
-	padding: 55px 50px;
+.footer-distributed {
+  background: #666;
+  box-sizing: border-box;
+  width: 100%;
+  text-align: left;
+  font: bold 16px sans-serif;
+  padding: 55px 50px;
 }
 
 .footer-distributed .footer-left,
 .footer-distributed .footer-center,
-.footer-distributed .footer-right{
-	display: inline-block;
-	vertical-align: top;
+.footer-distributed .footer-right {
+  display: inline-block;
+  vertical-align: top;
 }
 
 /* Footer left */
 
-.footer-distributed .footer-left{
-	width: 35%;
+.footer-distributed .footer-left {
+  width: 35%;
 }
-
 
 /* Footer links */
 
-.footer-distributed .footer-links{
-	color:  #ffffff;
-	margin: 20px 0 12px;
-	padding: 0;
+.footer-distributed .footer-links {
+  color: #ffffff;
+  margin: 20px 0 12px;
+  padding: 0;
 }
-
 
 /* Footer Center */
 
-.footer-distributed .footer-center{
-	width: 35%;
+.footer-distributed .footer-center {
+  width: 35%;
 }
 
-
-.footer-distributed .footer-center p{
-	display: inline-block;
-	color: #ffffff;
-  font-weight:400;
-	vertical-align: middle;
-	margin:0;
+.footer-distributed .footer-center p {
+  display: inline-block;
+  color: #ffffff;
+  font-weight: 400;
+  vertical-align: middle;
+  margin: 0;
 }
 
-.footer-distributed .footer-center p span{
-	display:block;
-	font-weight: normal;
-	font-size:14px;
-	line-height:2;
+.footer-distributed .footer-center p span {
+  display: block;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 2;
 }
-
-
-
-
-
-
 
 /* Footer Right */
 
-.footer-distributed .footer-right{
-	width: 20%;
+.footer-distributed .footer-right {
+  width: 20%;
 }
 
-
-
-.footer-distributed .footer-icons{
-	margin-top: 25px;
+.footer-distributed .footer-icons {
+  margin-top: 25px;
 }
 
-.footer-distributed .footer-icons a{
-	display: inline-block;
-	width: 35px;
-	height: 35px;
-	cursor: pointer;
-	background-color:  #33383b;
-	border-radius: 2px;
+.footer-distributed .footer-icons a {
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  cursor: pointer;
+  background-color: #33383b;
+  border-radius: 2px;
 
-	font-size: 20px;
-	color: #ffffff;
-	text-align: center;
-	line-height: 35px;
+  font-size: 20px;
+  color: #ffffff;
+  text-align: center;
+  line-height: 35px;
 
-	margin-right: 3px;
-	margin-bottom: 5px;
+  margin-right: 3px;
+  margin-bottom: 5px;
 }
-
-
 
 /* project */
 
-
-
 .container {
-    width: 800px;
-    margin: auto;
+  width: 800px;
+  margin: auto;
 }
 #first {
-    width: 400px;
-    float: left;
-    height: 400px;
-    background-color: blue;
+  width: 400px;
+  float: left;
+  height: 400px;
+  background-color: blue;
 }
 #second {
-    width: 400px;
-    float: right;
-    height: 400px;
-    background-color: green;
-    color: white;
+  width: 400px;
+  float: right;
+  height: 400px;
+  background-color: green;
+  color: white;
 }
 
-.container1{
-    width: 800px;
-    margin: auto;
+.container1 {
+  width: 800px;
+  margin: auto;
 }
-#first1{
-    width: 400px;
-    float: left;
-    height: 400px;
-    background-color: blue;
+#first1 {
+  width: 400px;
+  float: left;
+  height: 400px;
+  background-color: blue;
 }
-#second1{
-    width: 400px;
-    float: right;
-    height: 400px;
-    background-color: green;
-    color: white;
+#second1 {
+  width: 400px;
+  float: right;
+  height: 400px;
+  background-color: green;
+  color: white;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /*pc*/
 div.pc {
