@@ -359,7 +359,9 @@ footer{
 .footer-distributed .footer-left{
 	width: 35%;
 }
-.footer-distributed .footer-company-name{}
+.footer-distributed .footer-company-name{
+  color: white;
+}
 
 
 /* Footer links */
