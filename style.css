@@ -43,6 +43,65 @@ nav a:hover {
 
 /* project */
 
+
+
+.container {
+    width: 800px;
+    margin: auto;
+}
+#first {
+    width: 400px;
+    float: left;
+    height: 400px;
+    background-color: blue;
+}
+#second {
+    width: 400px;
+    float: right;
+    height: 400px;
+    background-color: green;
+    color: white;
+}
+
+.container1{
+    width: 800px;
+    margin: auto;
+}
+#first1{
+    width: 400px;
+    float: left;
+    height: 400px;
+    background-color: blue;
+}
+#second1{
+    width: 400px;
+    float: right;
+    height: 400px;
+    background-color: green;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*pc*/
 div.pc {
   margin: 15px;
