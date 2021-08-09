@@ -386,6 +386,7 @@ footer{
 
 .footer-distributed .footer-center{
 	width: 33%;
+  padding-top:18px;
 }
 
 
@@ -415,9 +416,19 @@ footer{
 .footer-distributed .footer-right{
 	width: 20%;
 }
+p.footer-company-about span{
+  font-size:25px;
+  color:black;
+
+}
 
 
 .footer-distributed .footer-company-about{
-  color:white;
+  padding-top:6px;
 }
 
+.footer-distributed h6{
+  color:white;
+  font-size:15px;
+ 
+}
