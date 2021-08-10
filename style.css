@@ -51,9 +51,21 @@ nav a {
 nav a:hover {
   color: white;
 }
-
-
-
+h1.fs{
+  text-align:center;
+  font-size:70px;
+}
+div.fs{
+  margin: 25px;
+  padding: 25px;
+  border: 5px solid black;
+  float: center;
+  width: 1700px;
+}
+div.fs img{
+  width: 100%;
+  height: auto;
+}
 
 .container1 {
 
@@ -79,7 +91,7 @@ div.bs, div.lp{
   padding: 25px;
   border: 5px solid black;
   float: left;
-  width: 800px;
+  width: 805px;
 }
 
 div.bs:hover,div.lp:hover{
