@@ -4,14 +4,14 @@ body {
   position: relative;
 }
 body.index {
-  padding-bottom: 70%;
+  padding-bottom: 60%;
 }
 body.aboutme {
   padding-bottom: 90%;
 }
 body.project {
-  padding-bottom: 160%;
-  background-color:Moccasin;
+  padding-bottom: 165%;
+  background-color: Moccasin;
 }
 header {
   background: DodgerBlue;
@@ -51,42 +51,50 @@ nav a {
 nav a:hover {
   color: white;
 }
-h1.fs{
-  text-align:center;
-  font-size:70px;
+h1.fs {
+  text-align: center;
+  font-size: 70px;
 }
-div.fs{
+.fs-price {
+  font-size: 60px;
+  text-align: center;
+}
+.fsdesc {
+  text-align: center;
+  font-size: 20px;
+}
+div.fs {
   margin: 25px;
   padding: 25px;
   border: 5px solid black;
   float: center;
-  width: 1700px;
+  width: 1770px;
 }
-div.fs img{
+div.fs img {
   width: 100%;
   height: auto;
 }
 
 .container1 {
-
-  width:1920px;
-  margin:auto;
+  width: 1920px;
+  margin: auto;
 }
-#bs{
- width: 944px;
-  float: left;
-  height: 1000px;
-  background-color:DarkTurquoise; 
-}
-
-#lp{
+#bs {
   width: 944px;
   float: left;
   height: 1000px;
-  background-colorDarkTurquoise;
+  background-color: DarkTurquoise;
 }
 
-div.bs, div.lp{
+#lp {
+  width: 944px;
+  float: left;
+  height: 1000px;
+  background-color: DarkTurquoise;
+}
+
+div.bs,
+div.lp {
   margin: 25px;
   padding: 25px;
   border: 5px solid black;
@@ -94,23 +102,28 @@ div.bs, div.lp{
   width: 805px;
 }
 
-div.bs:hover,div.lp:hover{
+div.bs:hover,
+div.lp:hover {
   border: 5px solid deepskyblue;
 }
-div.bs-price, div.lp-price{
+div.bs-price,
+div.lp-price {
   font-size: 40px;
   text-align: center;
 }
-div.bs img, div.lp img{
+div.bs img,
+div.lp img {
   width: 100%;
   height: auto;
 }
 
-div.bsdesc , div.lpdesc{
+div.bsdesc,
+div.lpdesc {
   padding: 15px;
   text-align: center;
 }
-#bs h1, #lp h1{
+#bs h1,
+#lp h1 {
   font-size: 60px;
   text-align: center;
 }
@@ -125,7 +138,7 @@ div.bsdesc , div.lpdesc{
   width: 944px;
   float: left;
   height: 1000px;
-  background-color:DeepSkyBlue;
+  background-color: DeepSkyBlue;
 }
 #second {
   width: 940px;
@@ -154,7 +167,7 @@ div.bsdesc , div.lpdesc{
 }
 
 .title-pc {
-  font-family: 'Georama', sans-serif;
+  font-family: "Georama", sans-serif;
   font-size: 70px;
   color: navy;
   text-align: center;
