@@ -146,6 +146,9 @@ div.pcdesc {
 }
 
 /*ps*/
+#first h1{
+  text-align:center;
+}
 div.ps {
   margin: 15px;
   padding: 25px;
