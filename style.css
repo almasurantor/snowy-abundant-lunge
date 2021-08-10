@@ -219,6 +219,9 @@ div.ps-price {
 div.ps img {
   width: 100%;
   height: auto;
+  height: 200px;
+  padding-right:5px;
+  width: 345px;
 }
 
 div.psdesc {
@@ -249,6 +252,8 @@ div.xbox-price {
 div.xbox img {
   width: 100%;
   height: auto;
+  height: 200px;
+  width: 345px;
 }
 
 div.xboxdesc {
@@ -279,6 +284,8 @@ div.games-price {
 div.games img {
   width: 100%;
   height: auto;
+  height: 200px;
+  width: 345px;
 }
 
 div.gamesdesc {
@@ -308,6 +315,8 @@ div.other-price {
 div.other img {
   width: 100%;
   height: auto;
+  height: 200px;
+  width: 345px;
 }
 
 div.otherdesc {
