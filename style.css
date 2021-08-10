@@ -10,7 +10,7 @@ body.aboutme {
   padding-bottom: 90%;
 }
 body.project {
-  padding-bottom: 140%;
+  padding-bottom: 160%;
   background-color:Moccasin;
 }
 header {
@@ -91,8 +91,9 @@ nav a:hover {
 }
 
 .title-pc {
+  font-family: 'Georama', sans-serif;
   font-size: 70px;
-  color: blue;
+  color: navy;
   text-align: center;
 }
 
@@ -224,7 +225,7 @@ div.other {
 div.other:hover {
   border: 5px solid MediumSpringGreen;
 }
-div.other-name {
+div.other-price {
   font-size: 40px;
   text-align: center;
 }
