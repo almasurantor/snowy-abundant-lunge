@@ -190,6 +190,8 @@ div.pc-price {
 div.pc img {
   width: 100%;
   height: auto;
+  height: 200px;
+  width: 345px;
 }
 
 div.pcdesc {
