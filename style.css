@@ -119,8 +119,9 @@ nav a:hover {
 
 /*pc*/
 div.pc {
-  margin: 15px;
-  padding: 15px;
+
+  margin: 25px;
+  padding: 10px;
   border: 5px solid black;
   float: left;
   width: 350px;
@@ -128,7 +129,7 @@ div.pc {
 }
 
 div.pc:hover {
-  border: 5px solid darkcyan;
+  border: 5px solid MediumSpringGreen;
 }
 div.pc-name {
   font-size: 40px;
