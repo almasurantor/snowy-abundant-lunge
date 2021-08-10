@@ -1,13 +1,17 @@
 
 ## What's in this project?
 
-← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
+← `index.html`: This is the home page, which gives customers a first look at our website
 
-← `index.html`: This is the main web page for your site. The HTML defines the structure and content of the page using _elements_. You'll see references in the HTML to the JS and CSS files. Try clicking the image in the center of the page!
-← `project.html`:
-← `aboutme.html`:
-← `contact.html`:
-← `message.html`:
+← `project.html`: This is the main web page, where costomers can browse through our products
+
+← `aboutme.html`: This page is where I talk about myself and the purpose of this website
+
+← `contact.html`: This page includes ways customers can contact us as well as our socials
+
+← `message.html`: This a form, where customers can contact us for any reason
+
+← `style.css`: This is where I styled all my pages to awesome!
 
 
 
