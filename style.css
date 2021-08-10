@@ -11,6 +11,7 @@ body.aboutme {
 }
 body.project {
   padding-bottom: 140%;
+  background-color:Moccasin;
 }
 header {
   background: DodgerBlue;
@@ -61,13 +62,13 @@ nav a:hover {
   width: 944px;
   float: left;
   height: 1000px;
-  background-color: blue;
+  background-color:DeepSkyBlue;
 }
 #second {
   width: 940px;
   float: left;
   height: 1000px;
-  background-color: green;
+  background-color: MediumSpringGreen;
   color: white;
 }
 
@@ -79,13 +80,13 @@ nav a:hover {
   width: 944px;
   float: left;
   height: 1000px;
-  background-color: blue;
+  background-color: Tomato;
 }
 #second1 {
   width: 940px;
   float: left;
   height: 1000px;
-  background-color: green;
+  background-color: Plum;
   color: white;
 }
 
@@ -162,7 +163,7 @@ div.xbox {
 }
 
 div.xbox:hover {
-  border: 5px solid MediumSpringGreen;
+  border: 5px solid Green;
 }
 div.xbox-price {
   font-size: 40px;
