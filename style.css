@@ -145,10 +145,10 @@ div.pcdesc {
   text-align: center;
 }
 
+
 /*ps*/
-#first h1{
-  text-align:center;
-}
+
+
 div.ps {
   margin: 15px;
   padding: 25px;
@@ -172,6 +172,9 @@ div.ps img {
 div.psdesc {
   padding: 15px;
   text-align: center;
+}
+#first h1{
+  text-align:center;
 }
 
 /*xbox*/
@@ -199,6 +202,9 @@ div.xboxdesc {
   padding: 15px;
   text-align: center;
 }
+#second h1{
+  text-align:center;
+  }
 
 /*games*/
 div.games {
@@ -225,7 +231,9 @@ div.gamesdesc {
   padding: 15px;
   text-align: center;
 }
-
+#first1 h1{
+  text-align:center;
+  }
 /*other*/
 div.other {
   margin: 15px;
@@ -251,7 +259,9 @@ div.otherdesc {
   padding: 15px;
   text-align: center;
 }
-
+#second2 h1{
+  text-align:center;
+  }
 /* about me */
 .box1 {
   position: absolute;
