@@ -151,10 +151,10 @@ div.pcdesc {
 
 
 div.ps {
-  margin: 15px;
+  margin: 25px;
   padding: 25px;
   border: 5px solid black;
-  float: right;
+  float: left;
   width: 320px;
 }
 
@@ -185,7 +185,7 @@ div.xbox {
   padding: 25px;
   border: 5px solid black;
   float: left;
-  width: 180px;
+  width: 320px;
 }
 
 div.xbox:hover {
@@ -205,16 +205,17 @@ div.xboxdesc {
   text-align: center;
 }
 #second h1{
+  font-size:60px;
   text-align:center;
   }
 
 /*games*/
 div.games {
-  margin: 15px;
+  margin: 25px;
   padding: 25px;
   border: 5px solid black;
   float: left;
-  width: 180px;
+  width: 320px;
 }
 
 div.games:hover {
@@ -234,15 +235,16 @@ div.gamesdesc {
   text-align: center;
 }
 #first1 h1{
+  font-size:60px;
   text-align:center;
   }
 /*other*/
 div.other {
-  margin: 15px;
+  margin: 25px;
   padding: 25px;
   border: 5px solid black;
   float: left;
-  width: 180px;
+  width: 320px;
 }
 
 div.other:hover {
@@ -262,6 +264,7 @@ div.otherdesc {
   text-align: center;
 }
 #second1 h1{
+  font-size:60px;
   text-align:center;
   }
 /* about me */
