@@ -66,6 +66,8 @@ h1.fs {
 div.fs {
   margin: 25px;
   padding: 25px;
+  margin-left: 160px;
+
   border: 10px solid black;
   float: center;
   width: 1400px;

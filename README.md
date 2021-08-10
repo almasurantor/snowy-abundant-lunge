@@ -16,7 +16,6 @@
 
 
 
-Open each file and check out the comments (in gray) for more info.
 
 
 
