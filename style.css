@@ -58,36 +58,36 @@ nav a:hover {
 
 
 .container {
-    width: 1000px;
+    width: 1920px;
     margin: auto;
 }
 #first {
-    width: 400px;
+    width: 944px;
     float: left;
     height: 400px;
     background-color: blue;
 }
 #second {
-    width: 400px;
-    float: right;
+    width: 940px;
+    float: left;
     height: 400px;
     background-color: green;
     color: white;
 }
 
 .container1{
-    width: 800px;
+   width: 1920px;
     margin: auto;
 }
 #first1{
-    width: 400px;
+    width: 944px;
     float: left;
     height: 400px;
     background-color: blue;
 }
 #second1{
-    width: 400px;
-    float: right;
+    width: 940px;
+    float: left;
     height: 400px;
     background-color: green;
     color: white;
