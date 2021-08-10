@@ -1,16 +1,16 @@
 /* index  */
 body {
   background-color: DarkTurquoise;
-  position:relative;
+  position: relative;
 }
-body.index{
-  padding-bottom:70%;
+body.index {
+  padding-bottom: 70%;
 }
-body.aboutme{
-  padding-bottom:90%;
+body.aboutme {
+  padding-bottom: 90%;
 }
-body.project{
-  padding-bottom:140%;
+body.project {
+  padding-bottom: 140%;
 }
 header {
   background: DodgerBlue;
@@ -51,72 +51,49 @@ nav a:hover {
   color: white;
 }
 
-
-
 /* project */
 
-
-
 .container {
-    width: 1920px;
-    margin: auto;
+  width: 1920px;
+  margin: auto;
 }
 #first {
-    width: 944px;
-    float: left;
-    height: 1000px;
-    background-color: blue;
+  width: 944px;
+  float: left;
+  height: 1000px;
+  background-color: blue;
 }
 #second {
-    width: 940px;
-    float: left;
-    height: 1000px;
-    background-color: green;
-    color: white;
+  width: 940px;
+  float: left;
+  height: 1000px;
+  background-color: green;
+  color: white;
 }
 
-.container1{
-   width: 1920px;
-    margin: auto;
+.container1 {
+  width: 1920px;
+  margin: auto;
 }
-#first1{
-    width: 944px;
-    float: left;
-    height: 1000px;
-    background-color: blue;
+#first1 {
+  width: 944px;
+  float: left;
+  height: 1000px;
+  background-color: blue;
 }
-#second1{
-    width: 940px;
-    float: left;
-    height: 1000px;
-    background-color: green;
-    color: white;
-}
-
-
-.title-pc{
-  font-size:70px;
-  color:blue;
-  text-align:center;
+#second1 {
+  width: 940px;
+  float: left;
+  height: 1000px;
+  background-color: green;
+  color: white;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.title-pc {
+  font-size: 70px;
+  color: blue;
+  text-align: center;
+}
 
 /*pc*/
 div.pc {
@@ -124,10 +101,8 @@ div.pc {
   border: 5px solid black;
   float: left;
   width: 350px;
-  margin:35px;
-
+  margin: 35px;
 }
-
 
 div.pc:hover {
   border: 5px solid MediumSpringGreen;
@@ -146,9 +121,7 @@ div.pcdesc {
   text-align: center;
 }
 
-
 /*ps*/
-
 
 div.ps {
   margin: 25px;
@@ -174,22 +147,22 @@ div.psdesc {
   padding: 15px;
   text-align: center;
 }
-#first h1{
-  font-size:60px;
-  text-align:center;
+#first h1 {
+  font-size: 60px;
+  text-align: center;
 }
 
 /*xbox*/
 div.xbox {
-  margin: 15px;
+  margin: 25px;
   padding: 25px;
   border: 5px solid black;
-  float: left;
+  float: right;
   width: 320px;
 }
 
 div.xbox:hover {
-  border: 1px solid #777;
+  border: 5px solid MediumSpringGreen;
 }
 div.xbox-price {
   font-size: 40px;
@@ -204,10 +177,10 @@ div.xboxdesc {
   padding: 15px;
   text-align: center;
 }
-#second h1{
-  font-size:60px;
-  text-align:center;
-  }
+#second h1 {
+  font-size: 60px;
+  text-align: center;
+}
 
 /*games*/
 div.games {
@@ -219,7 +192,7 @@ div.games {
 }
 
 div.games:hover {
-  border: 1px solid #777;
+  border: 5px solid MediumSpringGreen;
 }
 div.games-price {
   font-size: 40px;
@@ -234,21 +207,21 @@ div.gamesdesc {
   padding: 15px;
   text-align: center;
 }
-#first1 h1{
-  font-size:60px;
-  text-align:center;
-  }
+#first1 h1 {
+  font-size: 60px;
+  text-align: center;
+}
 /*other*/
 div.other {
   margin: 25px;
   padding: 25px;
   border: 5px solid black;
-  float: left;
+  float: right;
   width: 320px;
 }
 
 div.other:hover {
-  border: 1px solid #777;
+  border: 5px solid MediumSpringGreen;
 }
 div.other-name {
   font-size: 40px;
@@ -263,10 +236,10 @@ div.otherdesc {
   padding: 15px;
   text-align: center;
 }
-#second1 h1{
-  font-size:60px;
-  text-align:center;
-  }
+#second1 h1 {
+  font-size: 60px;
+  text-align: center;
+}
 /* about me */
 .box1 {
   position: absolute;
@@ -357,101 +330,83 @@ label.message {
   border: 20px;
 }
 
-
-
-
-
 /*footer*/
-footer{
+footer {
   position: absolute;
-  bottom:0px;
-    padding-top: 50px;
+  bottom: 0px;
+  padding-top: 50px;
 }
-.footer-distributed{
-	background: dodgerblue;
-	box-sizing: border-box;
-	width: 100%;
-	text-align: left;
-	font: bold 16px sans-serif;
-
-	padding: 15px 30px;
+.footer-distributed {
+  background: dodgerblue;
+  box-sizing: border-box;
+  width: 100%;
+  text-align: left;
+  font: bold 16px sans-serif;
+  padding: 15px 30px;
 }
 
 .footer-distributed .footer-left,
 .footer-distributed .footer-center,
-.footer-distributed .footer-right{
-	display: inline-block;
-	vertical-align: top;
+.footer-distributed .footer-right {
+  display: inline-block;
+  vertical-align: top;
 }
 
 /* Footer left */
 
-.footer-distributed .footer-left{
-	width: 42%;
-  padding-left:50px;
+.footer-distributed .footer-left {
+  width: 42%;
+  padding-left: 50px;
 }
-.footer-distributed .footer-company-name{
+.footer-distributed .footer-company-name {
   color: white;
-}
-
 }
 
 /* Footer links */
 
-.footer-distributed .footer-links{
-	color:  white;
-	margin: 20px 0 12px;
-	padding: 0;
+.footer-distributed .footer-links {
+  color: white;
+  margin: 20px 0 12px;
+  padding: 0;
 }
-
 
 /* Footer Center */
 
-.footer-distributed .footer-center{
-	width: 33%;
-  padding-top:18px;
+.footer-distributed .footer-center {
+  width: 33%;
+  padding-top: 18px;
 }
 
-
-.footer-distributed .footer-center p{
-	display: inline-block;
-	color: #ffffff;
-  font-weight:400;
-	vertical-align: middle;
-	margin:0;
+.footer-distributed .footer-center p {
+  display: inline-block;
+  color: #ffffff;
+  font-weight: 400;
+  vertical-align: middle;
+  margin: 0;
 }
 
-.footer-distributed .footer-center p span{
-	display:block;
-	font-weight: normal;
-	font-size:14px;
-	line-height:2;
+.footer-distributed .footer-center p span {
+  display: block;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 2;
 }
-
-
-
-
-
-
 
 /* Footer Right */
 
-.footer-distributed .footer-right{
-	width: 20%;
+.footer-distributed .footer-right {
+  width: 20%;
 }
-p.footer-company-about span{
-  font-size:25px;
-  color:black;
-
-}
-
-
-.footer-distributed .footer-company-about{
-  padding-top:6px;
+p.footer-company-about span {
+  font-size: 25px;
+  color: black;
 }
 
-.footer-distributed h6{
-  color:white;
-  font-size:15px;
- 
+.footer-distributed .footer-company-about {
+  padding-top: 6px;
+}
+
+.footer-distributed h6 {
+  color: white;
+  font-size: 15px;
 }
